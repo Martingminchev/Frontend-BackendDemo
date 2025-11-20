@@ -1,0 +1,17 @@
+body{
+  margin:0
+}
+.flex{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: antiquewhite;
+  padding:0px 20px;
+}
+.spaced{
+  gap:10px;
+}
+.footer{
+    background-color: antiquewhite;
+  text-align: center;
+}
